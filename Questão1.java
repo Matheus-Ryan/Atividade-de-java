@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questao1{
+public class Main{
     public static void main(String[] args) {
         Scanner receber = new Scanner(System.in);
         System.out.println("digite o primeiro numero: ");
